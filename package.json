@@ -21,7 +21,7 @@
   "bugs": {
     "url": "https://github.com/ayman-401-advanced-javascript/lab27/issues"
   },
-  "homepage": "https://github.com/ayman-401-advanced-javascript/lab27.io/lab27/",
+  "homepage": "/",
   "dependencies": {
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
