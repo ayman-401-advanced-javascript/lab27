@@ -1,11 +1,11 @@
 # LAB - Class 27
 
-### Author: Qusai-Alhanaktah
+### Author: Ayman Khawakdeh
 
 ### Links and Resources
 
-- [submission PR](https://github.com/401-advanced-javascript-qusaiAlhanaktah/lab-27/tree/lab27)
-- [ci/cd](https://github.com/401-advanced-javascript-qusaiAlhanaktah/lab-27/actions) (GitHub Actions)
+- [submission PR]()
+- [ci/cd]() (GitHub Actions)
 
 ### Setup
 npm i react enzyme gh-pages node-sass
