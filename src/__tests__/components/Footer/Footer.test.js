@@ -7,7 +7,7 @@ describe('<Footer />', ()=>{
     it('exists at the start of our application',()=>{
         let app = shallow(<Footer />);
         expect(app.find('p').exists()).toBeTruthy();
-        expect(app.find('p').text()).toContain('CopyRight@Qusai-alhanaktah2020');
+        expect(app.find('p').text()).toContain('CopyRight@Ayman App');
     });
     it('renders correctly', () => {
         const tree = renderer.create(<Footer />).toJSON();

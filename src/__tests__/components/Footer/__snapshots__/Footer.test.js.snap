@@ -3,7 +3,7 @@
 exports[`<Footer /> renders correctly 1`] = `
 <footer>
   <p>
-    CopyRight@Qusai-alhanaktah2020
+    CopyRight@Ayman App
   </p>
 </footer>
 `;
